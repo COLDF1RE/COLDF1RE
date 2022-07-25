@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Vladimir
 
-- 🏢 Beginner Frontend Developer
-- 💻 Studied frontend development at Codecademy and IT-university Digital Design (started in 2021)
-- 📍 Live in Saint-Petersburg, Russia but consider relocating to Europe or Canada
-- ✉️ You can reach me at v.boiarkin@gmail.com or https://t.me/Vladimir_Boyarkin_S_LOG_SPB
+- 🏢 Junior Frontend Developer
+- 💻 Studied frontend development at Codecademy and Digital Design IT-University (started in 2021)
+- 📍 Located in Saint Petersburg, Russia, but ready to consider relocating to Europe or Canada
+- ✉️ Reach me via v.boiarkin@gmail.com or https://t.me/Vladimir_Boyarkin_S_LOG_SPB
 
 
-Interested front-end development in JavaScript. Currently deepening my knowledge in React and Vue, and studying algorithms.
+I am mostly interested in frontend development in JavaScript. Also, I'm currently deepening my knowledge in React and Vue and studying algorithms.
 
 <!-- Stack:
 - HTML, CSS, SCSS/SASS, LESS  
