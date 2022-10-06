@@ -30,12 +30,13 @@ I am mostly interested in frontend development in JavaScript. Also, I'm currentl
 ![VS Code](https://img.shields.io/badge/-VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)  ![WebStorm](https://img.shields.io/badge/-WebStorm-20232A?style=for-the-badge&logo=WebStorm)  ![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma)
 
 ## 🤝 Contacts
+- My site: boiarkin.ffox.site
 - Email: v.boiarkin@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vladimir-boiarkin-499244240
 - Telegram: https://t.me/Vladimir_Boyarkin_S_LOG_SPB
 
 ## CV (Rus)
-* PDF: https://raw.githubusercontent.com/COLDF1RE/COLDF1RE/main/Vladimir-Boiarkin-Frontend-CV.pdf
+* PDF: https://github.com/COLDF1RE/COLDF1RE/raw/main/Boiarkin-Vladimir-Frontend-CV.pdf
 * HeadHunter: https://spb.hh.ru/resume/37959956ff0991b86d0039ed1f6e6357336c65
 * HabrCareer: https://career.habr.com/coldf1re
 
