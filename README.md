@@ -30,7 +30,7 @@ I am mostly interested in frontend development in JavaScript. Also, I'm currentl
 ![VS Code](https://img.shields.io/badge/-VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)  ![WebStorm](https://img.shields.io/badge/-WebStorm-20232A?style=for-the-badge&logo=WebStorm)  ![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma)
 
 ## 🤝 Contacts
-- My site: boiarkin.ffox.site
+- My site: https://boiarkin.ffox.site
 - Email: v.boiarkin@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vladimir-boiarkin-499244240
 - Telegram: https://t.me/Vladimir_Boyarkin_S_LOG_SPB
