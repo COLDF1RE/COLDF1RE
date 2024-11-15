@@ -3,7 +3,7 @@
 - 🏢 Junior Frontend Developer
 - 💻 Studied frontend development at Codecademy and Digital Design IT-University (started in 2021)
 - 📍 Located in Saint Petersburg, Russia, but ready to consider relocating to Europe or Canada
-- ✉️ Reach me via v.boiarkin@gmail.com or https://t.me/Vladimir_Boyarkin_S_LOG_SPB
+- ✉️ Reach me via v.boiarkin@gmail.com or https://t.me/Vladimir_Boyarkin
 
 
 I am mostly interested in frontend development in JavaScript. Also, I'm currently deepening my knowledge in React and Vue and studying algorithms.
