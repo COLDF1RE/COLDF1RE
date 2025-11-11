@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vladimir
 
 - 🏢 Frontend Developer
-- 📍 Located in Moskow, Russia, but ready to consider relocating
+- 📍 Located in Moscow, Russia, but ready to consider relocating
 - ✉️ Reach me via v.boiarkin@gmail.com or https://t.me/Vladimir_Boyarkin
 
 <!-- Stack:
